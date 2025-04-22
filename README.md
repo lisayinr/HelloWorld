@@ -2,17 +2,13 @@
 
 This is a Hello World program. The purpose of this program is to demonstrate how Visual Studio Code can work with GitHub to display Python code.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+Video Demonstration of how my software works: [Software Demo Video](https://youtu.be/MSJ5n4FFf8Y)
 
 # Development Environment
 
 * Visual Studio Code
 * Python 3.12.1
 * Git / Github
-
-{Describe the programming language that you used}
 
 # Useful Websites
 
